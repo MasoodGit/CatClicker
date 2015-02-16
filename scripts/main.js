@@ -1,15 +1,47 @@
 
 (function(){
-  var Cat_Names = ["Persian Cat","Egyptian Cat"];
-  //  Setup the cat names
-  var catOneName = document.getElementById('cat_one');
-  var catTwoName = document.getElementById('cat_two');
-  catOneName.innerText = Cat_Names[0];
-  catTwoName.innerText = Cat_Names[1];
-  //  Setup Handler to handle click event on cats
-  $('.catPicture').on('click',function(){
-    var $counterSpan = $(this).find("span");
-    var counterValue = parseInt($counterSpan.text());
-    $counterSpan.text(++counterValue);
-  });
+  var Cat_Names = [
+  {
+   "name"  : "Persian Cat",
+   "img"   : "./images/cat.jpg",
+   "count" : 0
+ },
+ {
+   "name" : "Egyptian Cat",
+   "img" :"./images/cat_two.jpg",
+   "count" : 0
+ },
+ {
+   "name" : "Jerry Cat",
+   "img" :"./images/cat_three.jpg",
+   "count" : 0
+ },
+ {
+   "name" : "Blue Cat",
+   "img" :"./images/cat.jpg",
+   "count" : 0
+ },
+ {
+   "name" : "Furry Cat",
+   "img" :"./images/cat_three.jpg",
+   "count" : 0
+ }];
+  
+  //  Create list of cats 
+  var $list = $("#catNamesList");
+  var $docFragment = $(document.createDocumentFragment());
+  for (var i = 0; i < Cat_Names.length; i++) {
+    var currentCat = Cat_Names[i];
+    var $element = $('<li></li>');
+    $element.append("<a href= '#'>" +  currentCat.name + "</a>");
+    $element.on('click', (function(cat){
+      return function () {
+        $("#cat_name").text(cat.name);
+        $("#cat_counter").text(++cat.count);
+        $("#cat_image").attr("src",cat.img);
+      };
+    })(currentCat));
+    $docFragment.append($element);
+  }
+  $list.append($docFragment);
 })();

@@ -6,20 +6,24 @@
 </head>
 <body>
   <h1>Wel Come to Cat Clicker</h1>
-  <div>
-    <!-- Display the image of the cat -->
-    <div id="catPictureContainer">
-      <div class="catPicture">
-        <h2 id="cat_one"></h2>
-        <img src="./images/cat.jpg">
-        <label>Click Counter :<span class="counter">45</span> </label>
-      </div>
-      <div class="catPicture">
-        <h2 id="cat_two"></h2>
-        <img src="./images/cat_two.jpg">
-        <label>Click Counter :<span class="counter">5</span> </label>
-      </div>
-    </div>
+  <div class="container">
+   <!-- Left side list of cats -->
+   <div class="col-30">
+     <ul id="catNamesList"></ul>
+   </div>
+   <!-- main display area -->
+   <div class="col-70">
+     <!-- display name and click counter -->
+     <div class="col-100">
+       <label id="cat_name"></label>
+       <label id="cat_counter"></label>
+     </div >
+     <!-- display cat image -->
+     <div class="col-100">
+       <img id="cat_image" src="" />
+     </div>
+   </div>
+
   </div>
   <script type="text/javascript" src="scripts/jquery-1.11.2.js"></script>
   <script type="text/javascript" src="scripts/main.js"></script>
