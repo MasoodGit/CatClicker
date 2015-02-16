@@ -1,0 +1,809 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"parse",
+				"parseInt〔function〕"
+			],
+			[
+				"clear",
+				"clearInterval〔function〕"
+			],
+			[
+				"array",
+				"arrayBuffer"
+			],
+			[
+				"go",
+				"globalArray"
+			],
+			[
+				"create",
+				"createElement〔function〕"
+			],
+			[
+				"call",
+				"callback〔argument〕"
+			],
+			[
+				"set",
+				"setInterval〔function〕"
+			],
+			[
+				"re",
+				"readFile"
+			],
+			[
+				"file",
+				"fileList〔variable〕"
+			],
+			[
+				"sc",
+				"script	Tag"
+			],
+			[
+				"for",
+				"for	for (…) {…}"
+			],
+			[
+				"scr",
+				"scripts"
+			],
+			[
+				"cas",
+				"cashRegister"
+			],
+			[
+				"a",
+				"add〔function〕"
+			],
+			[
+				"make",
+				"makeGrayScale"
+			],
+			[
+				"image",
+				"imageData"
+			],
+			[
+				"bo",
+				"bottomLine"
+			],
+			[
+				"stro",
+				"strokeRect"
+			],
+			[
+				"bei",
+				"beginPath"
+			],
+			[
+				"st",
+				"stroke"
+			],
+			[
+				"begin",
+				"beginPath"
+			],
+			[
+				"be",
+				"beginPath"
+			],
+			[
+				"stroke",
+				"Stroke"
+			],
+			[
+				"he",
+				"height"
+			],
+			[
+				"prop",
+				"prototype  (variable)"
+			],
+			[
+				"prot",
+				"prototype  (variable)"
+			],
+			[
+				"as",
+				"astronautNames"
+			],
+			[
+				"al",
+				"alphabetizer"
+			],
+			[
+				"ap",
+				"aplhaName"
+			],
+			[
+				"ruleRe",
+				"ruleResult"
+			],
+			[
+				"rule",
+				"ruleResults"
+			],
+			[
+				"page",
+				"pageSpeedResult"
+			],
+			[
+				"total",
+				"totalBytes"
+			],
+			[
+				"loc",
+				"localRuleField"
+			],
+			[
+				"len",
+				"length"
+			],
+			[
+				"form",
+				"formattedResults"
+			],
+			[
+				"alp",
+				"aplhaName"
+			],
+			[
+				"get",
+				"getRelationship"
+			],
+			[
+				"se",
+				"secondInputValidationResult"
+			],
+			[
+				"s",
+				"secondInputValidationResult"
+			],
+			[
+				"vla",
+				"validateInput"
+			],
+			[
+				"paragrap",
+				"paragraphNode  (variable)"
+			],
+			[
+				"cons",
+				"consoleDiv"
+			],
+			[
+				"Cre",
+				"createElement  (function)"
+			],
+			[
+				"desc",
+				"description"
+			],
+			[
+				"pro",
+				"projects"
+			],
+			[
+				"HTMLprojec",
+				"HTMLprojectDates  (variable)"
+			],
+			[
+				"HTMLproject",
+				"HTMLprojectTitle  (variable)"
+			],
+			[
+				"HTMLpr",
+				"HTMLprojectStart  (variable)"
+			],
+			[
+				"formattd",
+				"formattedDescription"
+			],
+			[
+				"poe",
+				"property1  (variable)"
+			],
+			[
+				"HTMLscho",
+				"HTMLschoolStart  (variable)"
+			],
+			[
+				"wor",
+				"workExperience"
+			],
+			[
+				"HTMLwor",
+				"HTMLworkEmployer  (variable)"
+			],
+			[
+				"sch",
+				"schoolName  (variable)"
+			],
+			[
+				"HTMLsh",
+				"HTMLschoolName  (variable)"
+			],
+			[
+				"mar",
+				"margin-bottom"
+			],
+			[
+				"margin",
+				"margin-top"
+			],
+			[
+				"margi",
+				"margin-top"
+			],
+			[
+				"pa",
+				"padding-bottom"
+			],
+			[
+				"pad",
+				"padding-right"
+			],
+			[
+				"fon",
+				"font-size"
+			],
+			[
+				"font",
+				"font-size"
+			],
+			[
+				"marg",
+				"margin-bottom"
+			],
+			[
+				"bac",
+				"background-attachment"
+			],
+			[
+				"on",
+				"onclick	Attr"
+			],
+			[
+				"te",
+				"text-indent"
+			],
+			[
+				"no",
+				"no-repeat  (value)"
+			],
+			[
+				"back",
+				"background-image"
+			],
+			[
+				"bor",
+				"border-radius"
+			],
+			[
+				"text",
+				"text-align"
+			],
+			[
+				"ma",
+				"margin-top"
+			],
+			[
+				"padd",
+				"padding-left"
+			],
+			[
+				"border",
+				"border-bottom"
+			],
+			[
+				"p",
+				"padding-bottom"
+			],
+			[
+				"paddi",
+				"padding-left"
+			],
+			[
+				"paddin",
+				"padding-bottom"
+			],
+			[
+				"tex",
+				"text-transform"
+			],
+			[
+				"max",
+				"max-width"
+			],
+			[
+				"overflow",
+				"overflow:   (property)"
+			],
+			[
+				"pos",
+				"position"
+			],
+			[
+				"min",
+				"min-width"
+			],
+			[
+				"list",
+				"list-style"
+			],
+			[
+				"in",
+				"inline-block"
+			],
+			[
+				"padding",
+				"padding-top"
+			],
+			[
+				"wid",
+				"width"
+			],
+			[
+				"di",
+				"display"
+			],
+			[
+				"wi",
+				"width"
+			],
+			[
+				"h",
+				"h4	Tag"
+			],
+			[
+				"div",
+				"div	Tag"
+			]
+		]
+	},
+	"build_system": "",
+	"command_palette":
+	{
+		"height": 375.0,
+		"selected_items":
+		[
+			[
+				"Package Control: ",
+				"Package Control: List Packages"
+			],
+			[
+				"Paca",
+				"Package Control: List Packages"
+			],
+			[
+				"Package",
+				"Package Control: List Packages"
+			],
+			[
+				"package",
+				"Package Control: Install Package"
+			],
+			[
+				"Packa",
+				"Package Control: List Packages"
+			],
+			[
+				"packa",
+				"Package Control: List Packages"
+			],
+			[
+				"Packag",
+				"Package Control: Install Package"
+			],
+			[
+				"Pack",
+				"Package Control: Install Package"
+			],
+			[
+				"pack",
+				"Package Control: List Packages"
+			],
+			[
+				"PAckag",
+				"Package Control: Install Package"
+			],
+			[
+				"Pacla",
+				"Package Control: Install Package"
+			],
+			[
+				"Pac",
+				"Package Control: Install Package"
+			],
+			[
+				"",
+				"AngularJS: Toggle - Disable Built-in Directive Completions"
+			],
+			[
+				"pac",
+				"Package Control: Install Package"
+			],
+			[
+				"ins",
+				"Package Control: Install Package"
+			],
+			[
+				"in",
+				"File: New View into File"
+			]
+		],
+		"width": 458.0
+	},
+	"console":
+	{
+		"height": 456.0,
+		"history":
+		[
+			"import urllib.request,os; pr='Preferences.sublime-settings'; ip='ignored_packages'; n='Package Control'; s=sublime.load_settings(pr); ig=s.get(ip); ig.append(n); s.set(ip,ig); sublime.save_settings('Preferences.sublime-settings'); pf=n+'.sublime-package'; urllib.request.install_opener(urllib.request.build_opener(urllib.request.ProxyHandler())); by=urllib.request.urlopen('https://packagecontrol.io/'+pf.replace(' ','%20')).read(); open(os.path.join(sublime.installed_packages_path(),pf),'wb').write(by); ig.remove(n); s.set(ip,ig); sublime.save_settings(pr); print('Package Control: 3.0.0 upgrade successful!')",
+			"import urllib.request,os,hashlib; h = '7183a2d3e96f11eeadd761d777e62404e330c659d4bb41d3bdf022e94cab3cd0'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://sublime.wbond.net/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/D/Js/CatClicker/scripts/main.js",
+		"/D/Js/CatClicker/index.html",
+		"/d/Ganges/samples/2_black1x-51 (2).txt",
+		"/d/Ganges/binary_raw.html",
+		"/d/Ganges/EcgChart.html",
+		"/d/Ganges/main.js",
+		"/D/Js/WebWorkers/WebWorkers/scripts/loadAjaxWorker.js",
+		"/D/Js/WebWorkers/WebWorkers/pi.js",
+		"/D/Js/WebWorkers/WebWorkers/scripts/pi.js",
+		"/C/Users/310127901/AppData/Roaming/Sublime Text 3/Packages/User/Preferences.sublime-settings",
+		"/C/Users/310127901/AppData/Roaming/Sublime Text 3/Packages/Default/Preferences.sublime-settings",
+		"/C/Users/310127901/test_project/test_project.sublime-project",
+		"/C/Users/310127901/AppData/Roaming/Sublime Text 3/Packages/STProjectMaker/package-metadata.json",
+		"/C/Users/310127901/AppData/Roaming/Sublime Text 3/Packages/User/STProjectMaker.sublime-settings",
+		"/C/Users/310127901/AppData/Roaming/Sublime Text 3/Packages/STProjectMaker/STProjectMaker.sublime-settings",
+		"/d/GD/Udacity/FED_Nano/P3/js/resources.js",
+		"/d/GD/Udacity/FED_Nano/P3/js/engine.js",
+		"/D/GoogleDrive/Google Drive/resumes/March 2013/Masood_Resume_port.docx",
+		"/d/GoogleDrive/Google Drive/Udacity/FED_Nano/P2/nadu-P2-v2/assert.css",
+		"/d/GoogleDrive/Google Drive/Udacity/FED_Nano/P2/nadu-P2-v2/app.js",
+		"/d/GoogleDrive/Google Drive/Udacity/FED_Nano/P2/nadu-P2-v2/index.html",
+		"/d/GoogleDrive/Google Drive/Udacity/FED_Nano/P2/nadu-P2-v2/pageSpeed.js",
+		"/d/GoogleDrive/Google Drive/Udacity/FED_Nano/P2/nadu-P2-v2/assert.js",
+		"/D/GoogleDrive/Google Drive/Udacity/MobileWebDev/final-assesment/bootstrap/css/bootstrap.css",
+		"/D/GoogleDrive/Google Drive/Udacity/FED_Nano/P1_v2.0_Mockup_Masood_Alam_Resubmission/css/main.css",
+		"/D/GoogleDrive/Google Drive/Udacity/FED_Nano/P2/nadu-P2-v2/index.html",
+		"/D/PhilipsRES/SVN/ColpoWorkflowGuidance/trunk/src/ColpoWFG/ColpoWFGSoftwareSolution/Client/ViewModel/Converters/BooleanToVisibilityConverter.cs",
+		"/D/InternetDownloads/uwpmm-master/uwpmm-master/Project/uwpmm/uwpmm.Shared/Utility/LiveviewUtil.cs",
+		"/D/InternetDownloads/uwpmm-master/uwpmm-master/Project/uwpmm/uwpmm.Shared/DataModel/CameraStatus.cs",
+		"/D/InternetDownloads/uwpmm-master/uwpmm-master/Project/uwpmm/uwpmm.Shared/DataModel/LiveviewScreenViewData.cs",
+		"/D/PhilipsRES/SVN/ColpoWorkflowGuidance/trunk/src/ColpoWFG/ColpoWFGSoftwareSolution/Common/ColpoScope.Common.Utilities/SystemIoHelper.cs",
+		"/D/InternetDownloads/uwpmm-master/uwpmm-master/Project/uwpmm/uwpmm.Windows/MainPage.xaml",
+		"/C/Windows/System32/drivers/etc/hosts",
+		"/D/InternetDownloads/uwpmm-master/uwpmm-master/Project/uwpmm/uwpmm.Shared/Utility/DebugUtil.cs",
+		"/D/InternetDownloads/uwpmm-master/uwpmm-master/Project/uwpmm/uwpmm.Windows/MainPage.xaml.cs",
+		"/D/InternetDownloads/uwpmm-master/uwpmm-master/Project/uwpmm/uwpmm.Shared/DataModel/ControlPanelDataSource.cs",
+		"/D/InternetDownloads/uwpmm-master/uwpmm-master/Project/uwpmm/uwpmm.Shared/Settings/SettingPanelBuilder.cs",
+		"/D/PhilipsRES/Quark_TCS/Gantry_sw~310127901/Gantry_sw/src/Gantry/Component/Tcs/ViewModel/Utility/ViewModelBase.cs",
+		"/D/InternetDownloads/uwpmm-master/uwpmm-master/Project/uwpmm/uwpmm.Shared/CameraControl/ProductType.cs",
+		"/D/InternetDownloads/uwpmm-master/uwpmm-master/Project/uwpmm/uwpmm.Shared/CameraControl/TargetDevice.cs",
+		"/D/InternetDownloads/uwpmm-master/uwpmm-master/Project/uwpmm/uwpmm.Shared/Utility/BoolToVisibilityConverter.cs",
+		"/D/PhilipsRES/SVN/ColpoWorkflowGuidance/trunk/src/ColpoWFG/ColpoWFGSoftwareSolution/Client/ViewModel/ViewModelBase.cs",
+		"/D/InternetDownloads/uwpmm-master/uwpmm-master/Project/uwpmm/uwpmm.Shared/Utility/SystemUtil.cs",
+		"/D/InternetDownloads/uwpmm-master/uwpmm-master/Project/uwpmm/uwpmm.Shared/CameraControl/ServerVersion.cs",
+		"/D/InternetDownloads/uwpmm-master/uwpmm-master/Project/uwpmm/uwpmm.Shared/DataModel/ApiCapabilityContainer.cs",
+		"/D/InternetDownloads/uwpmm-master/uwpmm-master/Project/uwpmm/uwpmm.Shared/DataModel/ImageDataSource.cs",
+		"/D/InternetDownloads/uwpmm-master/uwpmm-master/Project/uwpmm/uwpmm.Shared/DataModel/ObservableBase.cs",
+		"/D/InternetDownloads/uwpmm-master/uwpmm-master/Project/uwpmm/uwpmm.Shared/CameraControl/PlaybackModeSequence.cs",
+		"/D/InternetDownloads/uwpmm-master/uwpmm-master/Project/uwpmm/uwpmm.Shared/CameraControl/StatusObserver.cs",
+		"/D/InternetDownloads/uwpmm-master/uwpmm-master/Project/uwpmm/uwpmm.Shared/CameraControl/MovieStreamHelper.cs",
+		"/D/InternetDownloads/uwpmm-master/uwpmm-master/Project/uwpmm/uwpmm.Shared/CameraControl/ZoomOperation.cs",
+		"/D/SonyCameraExplore/SonyCameraClient/SonyCameraClient/SonyCameraClient.csproj",
+		"/D/SonyCameraExplore/SonyCameraClient/SsdpLibrary/SsdpLibrary.csproj",
+		"/D/SSDP_Lib/kz-ssdp-discovery-master/Project/KzSsdpDiscoveryUniversal.sln",
+		"/D/SSDP_Lib/kz-ssdp-discovery-master/Project/KzSsdpDiscoveryUniversal.csproj",
+		"/D/SonyCameraExplore/kz-ssdp-discovery-master/kz-ssdp-discovery-master/Project/KzSsdpDiscoveryUniversal.sln",
+		"/D/SonyCameraExplore/kz-ssdp-discovery-master/kz-ssdp-discovery-master/Project/KzSsdpDiscoveryUniversal.csproj",
+		"/D/SonyCameraExplore/kz-ssdp-discovery-master/kz-ssdp-discovery-master/Project/KzSoDiscoveryUniversal.csproj",
+		"/d/GoogleDrive/Google Drive/Udacity/JSBasics/frontend-nanodegree-resume/js/helper.js",
+		"/d/GoogleDrive/Google Drive/Udacity/JSBasics/frontend-nanodegree-resume/index.html",
+		"/d/GoogleDrive/Google Drive/Udacity/FED_Nano/P1/MasoodGit.github.io/css/main.css",
+		"/C/Users/310127901/AppData/Roaming/Sublime Text 3/Packages/User/Default (Windows).sublime-mousemap",
+		"/d/GoogleDrive/Google Drive/Udacity/IntroHtmlAndCSS/project/bootstrap/js/bootstrap.min.js",
+		"/d/GoogleDrive/Google Drive/Udacity/IntroHtmlAndCSS/project/bootstrap/js/bootstrap.js",
+		"/d/GoogleDrive/Google Drive/Udacity/IntroHtmlAndCSS/project/bootstrap/css/bootstrap.min.css",
+		"/d/GoogleDrive/Google Drive/Udacity/IntroHtmlAndCSS/project/bootstrap/css/bootstrap.css",
+		"/d/GoogleDrive/Google Drive/Udacity/IntroHtmlAndCSS/project/bootstrap/css/bootstrap-theme.min.css",
+		"/d/GoogleDrive/Google Drive/Udacity/IntroHtmlAndCSS/project/bootstrap/css/bootstrap-theme.css",
+		"/d/GoogleDrive/Google Drive/Udacity/IntroHtmlAndCSS/project/bootstrap/config.json",
+		"/d/GoogleDrive/Google Drive/Udacity/IntroHtmlAndCSS/project/style.css",
+		"/D/GoogleDrive/Google Drive/Udacity/IntroHtmlAndCSS/portfolio/port_with_bootstrap.html",
+		"/D/GoogleDrive/Google Drive/Udacity/IntroHtmlAndCSS/portfolio/port.html",
+		"/d/GoogleDrive/Google Drive/Udacity/GitAndGitHub/asteriods/asteroids/game.js",
+		"/d/GoogleDrive/Google Drive/Udacity/GitAndGitHub/reflections/lesson_2_reflections.txt",
+		"/D/GoogleDrive/Google Drive/CodeSchool/FrontEndFounation/regular-band.html",
+		"/D/GoogleDrive/Google Drive/CodeSchool/FrontEndFounation/prependers-band.html",
+		"/D/GoogleDrive/Google Drive/Udacity/MobileWebDev/final-assesment/mobile_structure.html",
+		"/D/GoogleDrive/Google Drive/Udacity/MobileWebDev/final-assesment/index.html",
+		"/D/GoogleDrive/Google Drive/Udacity/MobileWebDev/final-assesment/udacity.css",
+		"/D/GoogleDrive/Google Drive/Udacity/IntroHtmlAndCSS/portfolio/port.css",
+		"/D/GoogleDrive/Google Drive/Udacity/IntroHtmlAndCSS/portfolio/toplist/index.html",
+		"/D/GoogleDrive/Google Drive/Udacity/IntroHtmlAndCSS/portfolio/toplist/style.css",
+		"/D/GoogleDrive/Google Drive/Udacity/MobileWebDev/testNavRWD/normalize.css",
+		"/D/GoogleDrive/Google Drive/Udacity/MobileWebDev/testNavRWD/style.css",
+		"/C/Users/310127901/ruby_test/example.rb",
+		"/C/Users/310127901/AppData/Roaming/Sublime Text 3/Packages/HTML-CSS-JS Prettify/HTMLPrettify.sublime-settings",
+		"/C/Users/310127901/AppData/Roaming/Sublime Text 3/Packages/HTML-CSS-JS Prettify/.jsbeautifyrc",
+		"/D/GoogleDrive/Google Drive/Udacity/MobileWebDev/testNavRWD/index.html",
+		"/C/Users/310127901/AppData/Roaming/Sublime Text 3/Packages/HTML-CSS-JS Prettify/HTMLPrettify.py",
+		"/D/GoogleDrive/Google Drive/Udacity/MobileWebDev/testNavRWD/testNavRWD/app.js",
+		"/D/InternetDownloads/creating-lists/creating-lists/index.html",
+		"/D/GoogleDrive/Google Drive/LearnToCodeHtmlAndCSS/partA/speakers.html",
+		"/D/InternetDownloads/creating-lists/creating-lists/assets/stylesheets/main.css",
+		"/D/GoogleDrive/Google Drive/LearnToCodeHtmlAndCSS/partA/assets/stylesheets/main.css",
+		"/D/GoogleDrive/Google Drive/LearnToCodeHtmlAndCSS/partA/gulpfile.js",
+		"/D/GoogleDrive/Google Drive/LearnToCodeHtmlAndCSS/partA/package.json",
+		"/D/GoogleDrive/Google Drive/Udacity/MobileWebDev/PS_RWD_FEM/Build-Responsively-Workshop/01-RWD101/br-4.html",
+		"/D/GoogleDrive/Google Drive/Udacity/MobileWebDev/PS_RWD_FEM/Build-Responsively-Workshop/01-RWD101/br-5.html",
+		"/D/GoogleDrive/Google Drive/Udacity/MobileWebDev/PS_RWD_FEM/Build-Responsively-Workshop/01-RWD101/br-1.html",
+		"/D/GoogleDrive/Google Drive/Udacity/MobileWebDev/PS_RWD_FEM/Build-Responsively-Workshop/01-RWD101/br-3.html",
+		"/D/GoogleDrive/Google Drive/Udacity/MobileWebDev/testGulp/index.html",
+		"/D/GoogleDrive/Google Drive/Udacity/MobileWebDev/testGulp/gulpfile.js",
+		"/D/GoogleDrive/Google Drive/Udacity/MobileWebDev/testGulp/package.json",
+		"/D/PhilipsRES/SVN/ColpoWorkflowGuidance/trunk/src/ColpoWFG/ColpoWFGSoftwareSolution/Client/Application/ColpoScope.Application.csproj",
+		"/D/GoogleDrive/Google Drive/PluralSight/Bootstrap/FirstWebSite/SelectDropDown.html",
+		"/D/GoogleDrive/Google Drive/PluralSight/Bootstrap/FirstWebSite/Contact.html",
+		"/D/GoogleDrive/Google Drive/PluralSight/Bootstrap/FirstWebSite/index.html",
+		"/D/GoogleDrive/Google Drive/PluralSight/Bootstrap/FirstWebSite/css/bootstrap.css",
+		"/D/GoogleDrive/Google Drive/PluralSight/Bootstrap/FirstWebSite/ButtonGroup.html",
+		"/D/GoogleDrive/Google Drive/PluralSight/BuildingSiteBSNJSVS/site-building-bootstrap-angularjs-ef-azure/3-site-building-m2-exercise-files/MessageBoard/Views/Shared/_Layout.cshtml",
+		"/D/GoogleDrive/Google Drive/PluralSight/BuildingSiteBSNJSVS/site-building-bootstrap-angularjs-ef-azure/2-site-building-m1-exercise-files/MessageBoard/Views/Home/Index.cshtml",
+		"/D/GoogleDrive/Google Drive/PluralSight/BuildingSiteBSNJSVS/site-building-bootstrap-angularjs-ef-azure/2-site-building-m1-exercise-files/MessageBoard/App_Start/RouteConfig.cs",
+		"/D/GoogleDrive/Google Drive/PluralSight/BuildingSiteBSNJSVS/site-building-bootstrap-angularjs-ef-azure/2-site-building-m1-exercise-files/MessageBoard/Views/Shared/_Layout.cshtml",
+		"/D/PhilipsRES/RDD Docs/14_Feb_2014_Meeting.txt",
+		"/D/GoogleDrive/Google Drive/PluralSight/Bootstrap/FirstWebSite/Thumbnails.html",
+		"/D/GoogleDrive/Google Drive/PluralSight/Bootstrap/FirstWebSite/Points",
+		"/D/GoogleDrive/Google Drive/PluralSight/Bootstrap/FirstWebSite/Dialog.html",
+		"/D/GoogleDrive/Google Drive/PluralSight/Bootstrap/FirstWebSite/js/site.js",
+		"/D/GoogleDrive/Google Drive/PluralSight/Bootstrap/FirstWebSite/Pagination.html",
+		"/D/GoogleDrive/Google Drive/PluralSight/Bootstrap/FirstWebSite/ButtonGroupOther.html",
+		"/D/GoogleDrive/Google Drive/PluralSight/Bootstrap/exer/bootstrap-3/materials/5-bootstrap-3-m4-exercise-files/m4/after/Contact.html",
+		"/D/GoogleDrive/Google Drive/PluralSight/Bootstrap/FirstWebSite/css/bootstrap.min.css",
+		"/D/GoogleDrive/Google Drive/Sublime Projects/TestProjects/FirstWebSite.sublime-project",
+		"/D/GoogleDrive/Google Drive/PluralSight/Bootstrap/exer/bootstrap-3/materials/4-bootstrap-3-m3-exercise-files/m3/after/Contact.html",
+		"/C/Users/310127901/AppData/Roaming/Sublime Text 3/Packages/User/Default (Windows).sublime-keymap",
+		"/D/GoogleDrive/Google Drive/PluralSight/Bootstrap/FirstWebSite/js/bootstrap.js",
+		"/D/GoogleDrive/Google Drive/PluralSight/Bootstrap/FirstWebSite/css/bootstrap-theme.css",
+		"/D/GoogleDrive/Google Drive/PluralSight/Bootstrap/FirstWebSite/css/bootstrap.css.map"
+	],
+	"find":
+	{
+		"height": 27.0
+	},
+	"find_in_files":
+	{
+		"height": 98.0,
+		"where_history":
+		[
+			""
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			";",
+			"getInt8",
+			"loadFromFile",
+			"button1",
+			"view in browser",
+			"update",
+			"init",
+			"];\n",
+			"r",
+			"button",
+			"box-sizing: border-box;",
+			".div",
+			".row",
+			".container",
+			"row",
+			"results",
+			"PostviewImage",
+			"DD_Handler",
+			"Search",
+			"SearchSonyCameraDevices",
+			"x",
+			"ruleResults",
+			"localizedRuleName",
+			"localizedRuleNames",
+			"ControlPanel",
+			"Image",
+			"DefaultViewModel",
+			"DataCo",
+			"LiveviewScreenViewData",
+			"Update",
+			"PollingLoop",
+			"discovery",
+			"Discovery",
+			"discovery",
+			"Discovery",
+			"discovery",
+			"Discovery",
+			"discovery",
+			"Discovery",
+			"discovery",
+			"Discovery",
+			"discovery",
+			"Loaded",
+			"_System",
+			"googleMap",
+			"background-color",
+			"none",
+			"HTMLskills",
+			"bottom",
+			"2",
+			"coin",
+			"coins",
+			"this.delayBeforeBullet = 10;",
+			"img",
+			"h1",
+			"767",
+			"div.pretty-format",
+			"pretty-format",
+			"//lh5.ggpht.com/ZXSdf1sLeLOjJoixiLaWsE-9lhQO14JUioEruJxFLI1JHRgkPa9rkUW_cwikF-Z55sgM9YqlkwzaiBms5Hg=s127",
+			"banner",
+			"200x200",
+			";\n",
+			"h1",
+			"h2",
+			".responsive",
+			"@media",
+			"primary",
+			"html",
+			"name",
+			"for",
+			"checkbox",
+			"button",
+			"The",
+			"table",
+			"ul",
+			"hello",
+			"hello_code_put",
+			"select + ( alt + shift + w)\n\n\nhello_code_put\nhello_code_put\nhello_code_put\nhello_code_put",
+			"hello",
+			"hello_code_put",
+			"code",
+			"code_put",
+			"select + ( alt + shift + w)\n\n\ncode_put\ncode_put\ncode_put\ncode_put",
+			"code",
+			"code_put",
+			"table ",
+			"table-stripped",
+			"table stripped",
+			">\n",
+			"scope"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"./images/social-sprite.png",
+			"h2"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"incremental_find":
+	{
+		"height": 27.0
+	},
+	"input":
+	{
+		"height": 38.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"replace":
+	{
+		"height": 50.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+			[
+				"ind",
+				"index.html"
+			],
+			[
+				"in",
+				"index.html"
+			],
+			[
+				"boot",
+				"css\\bootstrap.css"
+			],
+			[
+				"inde",
+				"index.html"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"selected_items":
+		[
+			[
+				"",
+				"D:\\GoogleDrive\\Google Drive\\Sublime Projects\\cc-ng-z\\cc-ng-zz.sublime-project"
+			]
+		],
+		"width": 380.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 222.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
