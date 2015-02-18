@@ -56,7 +56,7 @@ var listView = {
                          .replace(/{{id}}/g,cat.id)
                          .replace(/{{name}}/g,cat.name);
       $thisTemplate = $($.parseHTML(thisTemplate));
-      $thisTemplate.on('click','.cat',(function(catCopy){
+      $thisTemplate.on('click',(function(catCopy){
         return function(){
           octopus.setCurrentCat(catCopy);
           detailView.render();
