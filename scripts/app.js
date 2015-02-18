@@ -1,7 +1,7 @@
 $(function(){
-var catData = {
+var model = {
   currentCat : 1,
-  catList  : [
+  cats  : [
   {
     "id" : 1,
     "name"  : "Persian Cat",
@@ -39,11 +39,11 @@ var listView = {
   init : function(){
     this.$catList = $('#catNamesList');
     this.catTemplate = $('script[data-template="catTemplate"]').html();
-    this.$catList.on('click','.catName',function(e){
-      var catId = $(this).parents('.cat').data().id;
-      octopus.setCurrentCat(catId);
-      return false;
-    });
+    // this.$catList.on('click','.cat',function(e){
+    //   var catId = $(this).parents('.cat').data().id;
+    //   octopus.setCurrentCat(catId);
+    //   return false;
+    // });
     this.render();
   },
   render : function(){
@@ -51,11 +51,18 @@ var listView = {
         catTemplate = this.catTemplate;
 
     $catList.html('');
-    octopus.getCatList().forEach(function(cat){
+    octopus.getCats().forEach(function(cat){
       var thisTemplate = catTemplate
                          .replace(/{{id}}/g,cat.id)
                          .replace(/{{name}}/g,cat.name);
-      $catList.append(thisTemplate);
+      $thisTemplate = $($.parseHTML(thisTemplate));
+      $thisTemplate.on('click','.cat',(function(catCopy){
+        return function(){
+          octopus.setCurrentCat(catCopy);
+          detailView.render();
+        };
+      })(cat));
+      $catList.append($thisTemplate);
     });
   }
 
@@ -84,24 +91,17 @@ var detailView = {
 
 //viewmodel / controller for this app
 var octopus = {
-  getCatList : function(){
-    return catData.catList;
+  getCats : function(){
+    return model.cats;
   },
-  setCurrentCat : function(catId){
-    catData.currentCat = catId;
-    detailView.render();
+  setCurrentCat : function(cat){
+    model.currentCat = cat;
   },
   getCurrentCat : function() {
-    var currentCatId = catData.currentCat;
-    for(var i =0; i < catData.catList.length;i++) {
-      var cat = catData.catList[i];
-      if(currentCatId == cat.id) {
-        return cat;
-      }
-    }
-    return undefined;
+    return model.currentCat;
   },
   init : function(){
+    model.currentCat = model.cats[0];
     listView.init();
     detailView.init();
   }
