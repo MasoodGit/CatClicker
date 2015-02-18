@@ -34,16 +34,13 @@ var model = {
   }]
 };
 
+/* ========================== List View ==========================*/
 //view to display list of cat names on left side
+
 var listView = {
   init : function(){
     this.$catList = $('#catNamesList');
     this.catTemplate = $('script[data-template="catTemplate"]').html();
-    // this.$catList.on('click','.cat',function(e){
-    //   var catId = $(this).parents('.cat').data().id;
-    //   octopus.setCurrentCat(catId);
-    //   return false;
-    // });
     this.render();
   },
   render : function(){
@@ -56,7 +53,7 @@ var listView = {
                          .replace(/{{id}}/g,cat.id)
                          .replace(/{{name}}/g,cat.name);
       $thisTemplate = $($.parseHTML(thisTemplate));
-      $thisTemplate.on('click',(function(catCopy){
+      $thisTemplate.on('click','.catName',(function(catCopy){
         return function(){
           octopus.setCurrentCat(catCopy);
           detailView.render();
@@ -68,14 +65,13 @@ var listView = {
 
 };
 
+/* ========================== Detail View ==========================*/
 //view to display the cat image / name / and count
 var detailView = {
-  init : function(){
+
+  init : function() {
     $("#cat_image").on('click',function(){
-      var cat = octopus.getCurrentCat();
-      if(cat !== undefined) {
-        $("#cat_counter").text(++cat.count);
-      }
+      octopus.incrementCounter();
     });
     this.render();
   },
@@ -89,8 +85,11 @@ var detailView = {
   }
 };
 
+/* ========================== Octopus ==========================*/
 //viewmodel / controller for this app
+
 var octopus = {
+
   getCats : function(){
     return model.cats;
   },
@@ -104,6 +103,10 @@ var octopus = {
     model.currentCat = model.cats[0];
     listView.init();
     detailView.init();
+  },
+  incrementCounter : function() {
+    model.currentCat.count++;
+    detailView.render();
   }
 };
 
